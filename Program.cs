@@ -78,4 +78,15 @@ else
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-int num = Convert.ToInt32(Console.ReadLine());
+/*
+Console.Write("Введите число: ");
+
+int number = Convert.ToInt32(Console.ReadLine()); 
+
+for (int i = 1; i <= number ; i++)
+ {
+     if (i%2==0){
+           Console.WriteLine(i);
+     }
+ }
+ */
